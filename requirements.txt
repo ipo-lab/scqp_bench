@@ -7,11 +7,11 @@ numpy==1.24.1
 osqp==0.6.2.post8
 packaging==23.1
 pandas==1.5.2
-Pillow==10.0.0
+Pillow==10.0.1
 pyparsing==3.1.0
 python-dateutil==2.8.2
 pytz==2023.3
 qdldl==0.1.7.post0
 scipy==1.10.0
--e git+ssh://git@github.com/ipo-lab/scqp@20c28ada5af70953fa2538b13f470e6721e2c661#egg=scqp
+-e git+ssh://git@github.com/ipo-lab/scqp@f8c1da59c09ce5912cd8807e399502ba477cf566#egg=scqp
 six==1.16.0
